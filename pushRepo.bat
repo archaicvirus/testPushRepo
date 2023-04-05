@@ -8,7 +8,7 @@ echo Committing changes...
 git commit -m "%message%"
 echo.
 echo Pushing to remote repository...
-git push --set-upstream origin master
+git push --set-upstream origin remote
 echo.
 echo Done.
 pause
